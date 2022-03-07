@@ -36,16 +36,18 @@ span{
   border-top-color: hsl(180, 62%, 55%);
   border-top-style:outset;
   border-radius: 5px;
-  width: 300px;
-  height: 210px;
+  width: 350px;
+  height: 250px;
   text-indent: 15px;
-  margin-top: 200px ;
-  margin-right: 650px;
+  margin-top: 255px ;
+  margin-right: 755px;
   
 }
 .supervisorImg{
-  padding-top: 25px;
-  padding-left: 200px;
+  width:64px;
+  height:64px;
+  padding-top: 45px;
+  padding-left: 240px;
 }
 .teamBuilder{
   position: absolute;
@@ -54,14 +56,16 @@ span{
   border-top-color:  hsl(0, 78%, 62%);
   border-top-style: outset;
   border-radius: 5px;
-  width: 300px;
-  height: 210px;
+  width: 350px;
+  height: 250px;
   text-indent: 15px;
   margin-top: 115px;
 }
 .teamBuilderImg{
-  padding-top: 25px;
-  padding-left: 200px;
+  width:64px;
+  height:64px;
+  padding-top: 45px;
+  padding-left: 240px;
 }
 .karma{
   position: absolute;
@@ -70,14 +74,16 @@ span{
   border-top-color: hsl(34, 97%, 64%);
   border-top-style: outset;
   border-radius: 5px;
-  width: 300px;
-  height: 210px;
+  width: 350px;
+  height: 250px;
   text-indent: 15px;
-  margin-top: 350px;
+  margin-top: 410px;
 }
 .karmaImg{
-  padding-top: 25px;
-  padding-left: 200px;
+  width:64px;
+  height:64px;
+  padding-top: 45px;
+  padding-left: 240px;
 }
 .calculator{
   position: absolute;
@@ -86,23 +92,25 @@ span{
   border-top-color: hsl(212, 86%, 64%);
   border-top-style: outset;
   border-radius: 5px;
-  width: 300px;
-  height: 210px;
+  width: 350px;
+  height: 250px;
   text-indent: 15px;
-  margin-top: 200px;
-  margin-left: 650px;
+  margin-top: 255px;
+  margin-left: 755px;
 }
 .calculatorImg{
-  padding-top: 25px;
-  padding-left: 200px;
+  width:64px;
+  height:64px;
+  padding-top: 45px;
+  padding-left: 240px;
 }
 .attribution {
-  margin-top: 650px;
+  margin-top: 700px;
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
-  margin-top: 650px;
+  margin-top: 700px;
   color: hsl(228, 45%, 44%);
 }
 
@@ -113,7 +121,7 @@ span{
     display:flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;
+    width: 310px;
     padding: 15px;
     margin: auto;
   }
